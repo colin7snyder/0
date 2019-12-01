@@ -127,7 +127,7 @@
 
   $(function() {
     typed.typed({
-      strings: ["Internships", "Volunteering",],
+      strings: ["Find Internships", "Go Volunteer",],
       typeSpeed: 100,
       loop: true,
     });
