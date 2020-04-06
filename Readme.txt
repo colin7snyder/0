@@ -1,1 +1,1 @@
-Have fun!
+HTML, CSS, JS only Website
